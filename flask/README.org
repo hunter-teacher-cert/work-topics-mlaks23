@@ -1,4 +1,7 @@
 * Last Name: Laks
 * First Name: Marisa
 
-When flask is running, use http://localhost:5000/
+When flask is running, use http://localhost:5000/index
+
+The routes are in the folder microblog/app
+There are links to the image of my grandma, the form and the index on the first page.
