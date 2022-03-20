@@ -2,3 +2,9 @@
 * First Name: Marisa
 
 Link to Google Doc: https://docs.google.com/document/d/1sL2c1-RX1rylYIQ8BM1upHcd2zf-I1SPdtEO6h-ZXfQ/edit#heading=h.e9add6hgpi9l
+
+This folder contains simple_sentence_generator.py file for homework and the markov_lyrics_generator.py challenge for the async homework.
+There are also text files for the song lyrics generator.
+
+In the markov_lyrics_generator.py file I tried to print line breaks and omit "[Chorus]".
+I'm not sure if there is a better way to do these things, but it seems to work for my program.
