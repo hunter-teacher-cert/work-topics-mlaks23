@@ -3,7 +3,7 @@ class Perceptron {
   // parameter is number of inputs
   constructor(n){
   // initialize an array of weights here
-    this.weights = [2]
+    this.weights = []
 
     // should have same amount of weights as inputs
     // weights should be random values between -1 and 1
@@ -41,15 +41,15 @@ class Perceptron {
   // finish training function for homework
   train(inputs, desired){
     // store result of feed forward here
-    let guess = this.answer
+    let guess = this.feedForward(inputs)
 
     // error is difference between desired result and guess
     let error = desired - guess
 
     // adjust all weights by adding learning rate times error times inputs
-    this.weights[0] + this.learningRate*error*inputs[0]
-    this.weights[1] + this.learningRate*error*inputs[1]
-    this.weights[2] + this.learningRate*error*inputs[2]
+    for(let i = 0; i < inputs.length; i++) {
+      this.weights += this.weights[i] + this.learningRate*error*inputs[i]
+    }
     // -> do same for all weights
 
 
