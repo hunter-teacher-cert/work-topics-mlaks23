@@ -1,3 +1,4 @@
-* Last Name:
-* First Name:
+* Last Name: Laks
+* First Name: Marisa
 
+This file contains the p5.js code for the neural net/perceptron file. 
