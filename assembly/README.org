@@ -1,3 +1,5 @@
-* Last Name:
-* First Name:
+* Last Name: Laks
+* First Name: Marisa
 
+In this assignment are pdfs of my solutions from the spreadsheet "World's Slowest Computer."
+I have included the monitor, the memory, and the instructions.
