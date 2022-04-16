@@ -1,3 +1,4 @@
-* Last Name:
-* First Name:
+* Last Name: Laks
+* First Name: Marisa
 
+This is the blockchain homework. 
