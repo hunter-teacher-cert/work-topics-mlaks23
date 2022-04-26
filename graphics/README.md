@@ -13,7 +13,7 @@ How can computers be used to create and display three-dimensional graphics in tw
 - to write a computer program that creates and displays a cube
 
 #### Contents
-This contains the files for the presentation, the code along, the homework/async.
+This contains the files for the presentation, the code along, the code along solution, the homework/async description and the homework solution.
 
 - Link for GeoGebra activities: https://www.geogebra.org/m/hmxm5jne
 - Link to Presentation: https://docs.google.com/presentation/d/1aCnSj--zw6R2PpqorJHdNruIlRbWqyor_eJWi7VTMEY/edit#slide=id.g12576b3d6f9_0_2125
