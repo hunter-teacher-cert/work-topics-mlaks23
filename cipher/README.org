@@ -1,2 +1,7 @@
 * Last Name: Marisa
 * First Name: Laks
+
+Async: I completed the encryption for the lowercase letters.
+Bell Pepper Homework: I wrote a decryption function.
+
+I was able to encrypt and decrypt my name!
