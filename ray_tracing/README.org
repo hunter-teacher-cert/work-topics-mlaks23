@@ -1,3 +1,7 @@
-* Last Name:
-* First Name:
+* Last Name: Laks
+* First Name: Marisa
 
+This file contains my ray tracer code for a traffic light and a picture of the traffic light.
+
+Link to my traffic lights:
+https://raytracer-js.marisalaks.repl.co/examples/hunter.html
